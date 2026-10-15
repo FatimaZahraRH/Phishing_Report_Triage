@@ -1,0 +1,39 @@
+{
+ "reports": 362,
+ "emails": 120,
+ "tickets": 75,
+ "reduction_pct": 79.3,
+ "auto_closed": 13,
+ "queue_suspicious": 24,
+ "queue_malicious": 38,
+ "by_priority": {
+  "P1": 11,
+  "P2": 10,
+  "P3": 28,
+  "P4": 13
+ },
+ "by_category": {
+  "credential_phishing": 10,
+  "malware": 5,
+  "suspicious": 24,
+  "scam_spam": 23,
+  "exercise": 1,
+  "benign": 12
+ },
+ "malicious_auto_closed": 0,
+ "malicious_to_human": 29,
+ "malicious_categorized": 66,
+ "malicious_total": 95,
+ "legit_total": 25,
+ "legit_flagged_malicious": 0,
+ "legit_to_human": 0,
+ "exercise_recognized": 1,
+ "cluster_pairs": {
+  "tp": 72,
+  "fp": 4,
+  "fn": 0,
+  "precision": 0.947,
+  "recall": 1.0
+ },
+ "avg_signals_explained": 3.5
+}

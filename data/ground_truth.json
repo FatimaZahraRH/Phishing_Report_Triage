@@ -1,0 +1,482 @@
+{
+ "pp-sample-1026": {
+  "label": "malicious",
+  "campaign": "camp-00"
+ },
+ "pp-sample-1027": {
+  "label": "malicious",
+  "campaign": "camp-00"
+ },
+ "pp-sample-1033": {
+  "label": "malicious",
+  "campaign": "camp-00"
+ },
+ "pp-sample-1079": {
+  "label": "malicious",
+  "campaign": "camp-00"
+ },
+ "pp-sample-1668": {
+  "label": "malicious",
+  "campaign": "camp-01"
+ },
+ "pp-sample-1747": {
+  "label": "malicious",
+  "campaign": "camp-01"
+ },
+ "pp-sample-1748": {
+  "label": "malicious",
+  "campaign": "camp-01"
+ },
+ "pp-sample-1753": {
+  "label": "malicious",
+  "campaign": "camp-01"
+ },
+ "pp-sample-4439": {
+  "label": "malicious",
+  "campaign": "camp-02"
+ },
+ "pp-sample-4453": {
+  "label": "malicious",
+  "campaign": "camp-02"
+ },
+ "pp-sample-4455": {
+  "label": "malicious",
+  "campaign": "camp-02"
+ },
+ "pp-sample-4467": {
+  "label": "malicious",
+  "campaign": "camp-02"
+ },
+ "pp-sample-10495": {
+  "label": "malicious",
+  "campaign": "camp-03"
+ },
+ "pp-sample-10498": {
+  "label": "malicious",
+  "campaign": "camp-03"
+ },
+ "pp-sample-10499": {
+  "label": "malicious",
+  "campaign": "camp-03"
+ },
+ "pp-sample-10501": {
+  "label": "malicious",
+  "campaign": "camp-03"
+ },
+ "pp-sample-10796": {
+  "label": "malicious",
+  "campaign": "camp-04"
+ },
+ "pp-sample-10804": {
+  "label": "malicious",
+  "campaign": "camp-04"
+ },
+ "pp-sample-10805": {
+  "label": "malicious",
+  "campaign": "camp-04"
+ },
+ "pp-sample-10815": {
+  "label": "malicious",
+  "campaign": "camp-04"
+ },
+ "pp-sample-8255": {
+  "label": "malicious",
+  "campaign": "camp-05"
+ },
+ "pp-sample-8305": {
+  "label": "malicious",
+  "campaign": "camp-05"
+ },
+ "pp-sample-8331": {
+  "label": "malicious",
+  "campaign": "camp-05"
+ },
+ "pp-sample-8997": {
+  "label": "malicious",
+  "campaign": "camp-05"
+ },
+ "pp-sample-10721": {
+  "label": "malicious",
+  "campaign": "camp-06"
+ },
+ "pp-sample-10726": {
+  "label": "malicious",
+  "campaign": "camp-06"
+ },
+ "pp-sample-10732": {
+  "label": "malicious",
+  "campaign": "camp-06"
+ },
+ "pp-sample-10739": {
+  "label": "malicious",
+  "campaign": "camp-06"
+ },
+ "pp-sample-7119": {
+  "label": "malicious",
+  "campaign": "camp-07"
+ },
+ "pp-sample-7124": {
+  "label": "malicious",
+  "campaign": "camp-07"
+ },
+ "pp-sample-7215": {
+  "label": "malicious",
+  "campaign": "camp-07"
+ },
+ "pp-sample-7736": {
+  "label": "malicious",
+  "campaign": "camp-07"
+ },
+ "pp-sample-7928": {
+  "label": "malicious",
+  "campaign": "camp-08"
+ },
+ "pp-sample-8007": {
+  "label": "malicious",
+  "campaign": "camp-08"
+ },
+ "pp-sample-8218": {
+  "label": "malicious",
+  "campaign": "camp-08"
+ },
+ "pp-sample-8365": {
+  "label": "malicious",
+  "campaign": "camp-08"
+ },
+ "pp-sample-8377": {
+  "label": "malicious",
+  "campaign": "camp-09"
+ },
+ "pp-sample-8389": {
+  "label": "malicious",
+  "campaign": "camp-09"
+ },
+ "pp-sample-8424": {
+  "label": "malicious",
+  "campaign": "camp-09"
+ },
+ "pp-sample-8434": {
+  "label": "malicious",
+  "campaign": "camp-09"
+ },
+ "pp-sample-1261": {
+  "label": "malicious",
+  "campaign": "pp-sample-1261"
+ },
+ "pp-sample-1250": {
+  "label": "malicious",
+  "campaign": "pp-sample-1250"
+ },
+ "pp-sample-1258": {
+  "label": "malicious",
+  "campaign": "pp-sample-1258"
+ },
+ "pp-sample-1266": {
+  "label": "malicious",
+  "campaign": "pp-sample-1266"
+ },
+ "pp-sample-3641": {
+  "label": "malicious",
+  "campaign": "pp-sample-3641"
+ },
+ "pp-sample-983": {
+  "label": "malicious",
+  "campaign": "pp-sample-983"
+ },
+ "pp-sample-11385": {
+  "label": "malicious",
+  "campaign": "pp-sample-11385"
+ },
+ "pp-sample-9458": {
+  "label": "malicious",
+  "campaign": "pp-sample-9458"
+ },
+ "pp-sample-5577": {
+  "label": "malicious",
+  "campaign": "pp-sample-5577"
+ },
+ "pp-sample-6486": {
+  "label": "malicious",
+  "campaign": "pp-sample-6486"
+ },
+ "pp-sample-5896": {
+  "label": "malicious",
+  "campaign": "pp-sample-5896"
+ },
+ "pp-sample-5503": {
+  "label": "malicious",
+  "campaign": "pp-sample-5503"
+ },
+ "pp-sample-7666": {
+  "label": "malicious",
+  "campaign": "pp-sample-7666"
+ },
+ "pp-sample-4921": {
+  "label": "malicious",
+  "campaign": "pp-sample-4921"
+ },
+ "pp-sample-4301": {
+  "label": "malicious",
+  "campaign": "pp-sample-4301"
+ },
+ "pp-sample-7612": {
+  "label": "malicious",
+  "campaign": "pp-sample-7612"
+ },
+ "pp-sample-9077": {
+  "label": "malicious",
+  "campaign": "pp-sample-9077"
+ },
+ "pp-sample-8540": {
+  "label": "malicious",
+  "campaign": "pp-sample-8540"
+ },
+ "pp-sample-1150": {
+  "label": "malicious",
+  "campaign": "pp-sample-1150"
+ },
+ "pp-sample-7227": {
+  "label": "malicious",
+  "campaign": "pp-sample-7227"
+ },
+ "pp-sample-7364": {
+  "label": "malicious",
+  "campaign": "pp-sample-7364"
+ },
+ "pp-sample-7556": {
+  "label": "malicious",
+  "campaign": "pp-sample-7556"
+ },
+ "pp-sample-8665": {
+  "label": "malicious",
+  "campaign": "pp-sample-8665"
+ },
+ "pp-sample-2898": {
+  "label": "malicious",
+  "campaign": "pp-sample-2898"
+ },
+ "pp-sample-8146": {
+  "label": "malicious",
+  "campaign": "pp-sample-8146"
+ },
+ "pp-sample-2364": {
+  "label": "malicious",
+  "campaign": "pp-sample-2364"
+ },
+ "pp-sample-2762": {
+  "label": "malicious",
+  "campaign": "pp-sample-2762"
+ },
+ "pp-sample-756": {
+  "label": "malicious",
+  "campaign": "pp-sample-756"
+ },
+ "pp-sample-6436": {
+  "label": "malicious",
+  "campaign": "pp-sample-6436"
+ },
+ "pp-sample-11726": {
+  "label": "malicious",
+  "campaign": "pp-sample-11726"
+ },
+ "pp-sample-10969": {
+  "label": "malicious",
+  "campaign": "pp-sample-10969"
+ },
+ "pp-sample-7419": {
+  "label": "malicious",
+  "campaign": "pp-sample-7419"
+ },
+ "pp-sample-6550": {
+  "label": "malicious",
+  "campaign": "pp-sample-6550"
+ },
+ "pp-sample-11041": {
+  "label": "malicious",
+  "campaign": "pp-sample-11041"
+ },
+ "pp-sample-2859": {
+  "label": "malicious",
+  "campaign": "pp-sample-2859"
+ },
+ "pp-sample-1853": {
+  "label": "malicious",
+  "campaign": "pp-sample-1853"
+ },
+ "pp-sample-757": {
+  "label": "malicious",
+  "campaign": "pp-sample-757"
+ },
+ "pp-sample-11810": {
+  "label": "malicious",
+  "campaign": "pp-sample-11810"
+ },
+ "pp-sample-8047": {
+  "label": "malicious",
+  "campaign": "pp-sample-8047"
+ },
+ "pp-sample-7716": {
+  "label": "malicious",
+  "campaign": "pp-sample-7716"
+ },
+ "pp-sample-3187": {
+  "label": "malicious",
+  "campaign": "pp-sample-3187"
+ },
+ "pp-sample-6171": {
+  "label": "malicious",
+  "campaign": "pp-sample-6171"
+ },
+ "pp-sample-4361": {
+  "label": "malicious",
+  "campaign": "pp-sample-4361"
+ },
+ "pp-sample-5767": {
+  "label": "malicious",
+  "campaign": "pp-sample-5767"
+ },
+ "pp-sample-7162": {
+  "label": "malicious",
+  "campaign": "pp-sample-7162"
+ },
+ "pp-sample-5962": {
+  "label": "malicious",
+  "campaign": "pp-sample-5962"
+ },
+ "pp-sample-1877": {
+  "label": "malicious",
+  "campaign": "pp-sample-1877"
+ },
+ "pp-sample-9178": {
+  "label": "malicious",
+  "campaign": "pp-sample-9178"
+ },
+ "pp-sample-8474": {
+  "label": "malicious",
+  "campaign": "pp-sample-8474"
+ },
+ "pp-sample-9487": {
+  "label": "malicious",
+  "campaign": "pp-sample-9487"
+ },
+ "pp-sample-11029": {
+  "label": "malicious",
+  "campaign": "pp-sample-11029"
+ },
+ "pp-sample-10447": {
+  "label": "malicious",
+  "campaign": "pp-sample-10447"
+ },
+ "pp-sample-5378": {
+  "label": "malicious",
+  "campaign": "pp-sample-5378"
+ },
+ "pp-sample-6206": {
+  "label": "malicious",
+  "campaign": "pp-sample-6206"
+ },
+ "pp-sample-770": {
+  "label": "malicious",
+  "campaign": "pp-sample-770"
+ },
+ "syn-00": {
+  "label": "benign",
+  "campaign": "syn-t00"
+ },
+ "syn-01": {
+  "label": "benign",
+  "campaign": "syn-t00"
+ },
+ "syn-02": {
+  "label": "benign",
+  "campaign": "syn-t01"
+ },
+ "syn-03": {
+  "label": "benign",
+  "campaign": "syn-t01"
+ },
+ "syn-04": {
+  "label": "benign",
+  "campaign": "syn-t02"
+ },
+ "syn-05": {
+  "label": "benign",
+  "campaign": "syn-t02"
+ },
+ "syn-06": {
+  "label": "benign",
+  "campaign": "syn-t03"
+ },
+ "syn-07": {
+  "label": "benign",
+  "campaign": "syn-t03"
+ },
+ "syn-08": {
+  "label": "benign",
+  "campaign": "syn-t04"
+ },
+ "syn-09": {
+  "label": "benign",
+  "campaign": "syn-t04"
+ },
+ "syn-10": {
+  "label": "benign",
+  "campaign": "syn-t05"
+ },
+ "syn-11": {
+  "label": "benign",
+  "campaign": "syn-t05"
+ },
+ "syn-12": {
+  "label": "benign",
+  "campaign": "syn-t06"
+ },
+ "syn-13": {
+  "label": "benign",
+  "campaign": "syn-t06"
+ },
+ "syn-14": {
+  "label": "benign",
+  "campaign": "syn-t07"
+ },
+ "syn-15": {
+  "label": "benign",
+  "campaign": "syn-t07"
+ },
+ "syn-16": {
+  "label": "benign",
+  "campaign": "syn-t08"
+ },
+ "syn-17": {
+  "label": "benign",
+  "campaign": "syn-t08"
+ },
+ "syn-18": {
+  "label": "benign",
+  "campaign": "syn-t09"
+ },
+ "syn-19": {
+  "label": "benign",
+  "campaign": "syn-t09"
+ },
+ "syn-20": {
+  "label": "benign",
+  "campaign": "syn-t10"
+ },
+ "syn-21": {
+  "label": "benign",
+  "campaign": "syn-t10"
+ },
+ "syn-22": {
+  "label": "benign",
+  "campaign": "syn-t11"
+ },
+ "syn-23": {
+  "label": "benign",
+  "campaign": "syn-t11"
+ },
+ "syn-24": {
+  "label": "exercise",
+  "campaign": "syn-t12"
+ }
+}

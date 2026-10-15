@@ -1,0 +1,33 @@
+{
+ "emails": 2998,
+ "parse_errors": 2,
+ "categories": {
+  "suspicious": 1236,
+  "scam_spam": 1133,
+  "credential_phishing": 623,
+  "malware": 4,
+  "invoice_fraud": 2
+ },
+ "auto_closed_as_legit": 0,
+ "signals": {
+  "auth_fail": 1674,
+  "money_lure": 1393,
+  "abusable_hosting": 1028,
+  "urgency": 726,
+  "malformed_sender": 694,
+  "credential_lure": 619,
+  "reply_to_mismatch": 593,
+  "return_path_mismatch": 470,
+  "shortener": 283,
+  "brand_impersonation": 259,
+  "link_text_mismatch": 122,
+  "lookalike_domain": 92,
+  "hidden_characters": 91,
+  "risky_tld": 74,
+  "ip_url": 51,
+  "auth_partial": 19,
+  "risky_attachment": 4,
+  "fake_internal": 1,
+  "freemail_brand": 1
+ }
+}
